@@ -6,7 +6,7 @@ import java.util.List;
  * Klasse Bestellungen
  */
 public class Bestellung {
-    
+
     private Long id;
 
     private List<Pizza> pizzas;
@@ -14,12 +14,11 @@ public class Bestellung {
     public Bestellung() {
     }
 
-
     public Bestellung(Long id, List<Pizza> pizzas) {
         this.id = id;
         this.pizzas = pizzas;
-    }
 
+    }
 
     public Long getId() {
         return this.id;
@@ -37,13 +36,12 @@ public class Bestellung {
         this.pizzas = pizzas;
     }
 
-
     @Override
     public String toString() {
         return "{" +
-            " id='" + getId() + "'" +
-            ", pizzas='" + getPizzas() + "'" +
-            "}";
+                " id='" + getId() + "'" +
+                ", pizzas='" + getPizzas() + "'" +
+                "}";
     }
-    
+
 }
