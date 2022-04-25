@@ -6,6 +6,6 @@ function read(){
         console.log(test);
     };
 
-    xhttp.open("GET", "api/demo", true);
+    xhttp.open("GET", "api/bestellungen", true);
     xhttp.send();
 };
