@@ -4,7 +4,8 @@ function validate(){
     
     if(username=="admin"&&password=="123"){
         alert("login succesfull");
-        window.href="steam.html";
+        
+        window.location.href="steam.html";
     } else {
         alert("login failed")
     }
