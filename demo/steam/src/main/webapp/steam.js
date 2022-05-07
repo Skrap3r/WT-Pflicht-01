@@ -18,3 +18,5 @@ function buildTable(data){
         table.innerHTML +=row;
     }
 }
+var selected = document.getElementById("select").value;
+console.log(selected)
