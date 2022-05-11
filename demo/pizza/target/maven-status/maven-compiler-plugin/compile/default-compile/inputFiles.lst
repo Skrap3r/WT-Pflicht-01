@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 /home/skrap3r/Dokumente/WT-Pflichtaufgaben/demo/pizza/src/main/java/de/hsh/pizza/Bestellung.java
 /home/skrap3r/Dokumente/WT-Pflichtaufgaben/demo/pizza/src/main/java/de/hsh/pizza/BestellungRepository.java
 /home/skrap3r/Dokumente/WT-Pflichtaufgaben/demo/pizza/src/main/java/de/hsh/pizza/PizzaSize.java
 /home/skrap3r/Dokumente/WT-Pflichtaufgaben/demo/pizza/src/main/java/de/hsh/pizza/Pizza.java
 /home/skrap3r/Dokumente/WT-Pflichtaufgaben/demo/pizza/src/main/java/de/hsh/pizza/BestellungenResource.java
 /home/skrap3r/Dokumente/WT-Pflichtaufgaben/demo/pizza/src/main/java/de/hsh/pizza/JAXRSApplication.java
+=======
+/home/jannes/4Semester/WT1/abgabe/WT/demo/pizza/src/main/java/de/hsh/pizza/BestellungRepository.java
+/home/jannes/4Semester/WT1/abgabe/WT/demo/pizza/src/main/java/de/hsh/pizza/PizzaSize.java
+/home/jannes/4Semester/WT1/abgabe/WT/demo/pizza/src/main/java/de/hsh/pizza/Bestellung.java
+/home/jannes/4Semester/WT1/abgabe/WT/demo/pizza/src/main/java/de/hsh/pizza/Pizza.java
+/home/jannes/4Semester/WT1/abgabe/WT/demo/pizza/src/main/java/de/hsh/pizza/BestellungenResource.java
+/home/jannes/4Semester/WT1/abgabe/WT/demo/pizza/src/main/java/de/hsh/pizza/JAXRSApplication.java
+>>>>>>> 64cdc317895b52accd1313bd8b110b85277c61cd
