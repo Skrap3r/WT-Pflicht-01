@@ -5,6 +5,7 @@ var myArray = [
 ];
 
 buildTable(myArray);
+
 function buildTable(data){
     var table= document.getElementById("contentBody");
 
@@ -34,6 +35,7 @@ function editElement(id, data){
     document.createTextNode("Hallo" + myArray[id].genre);
     // var node = ev.target || ev.srcElement;
     // console.log(node);
+    test(id);
 }
 
 function addElement(){
